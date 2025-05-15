@@ -1,7 +1,4 @@
-# Requirements for Chapterly
-# Python version: 3.6+
+# Bản Python yêu cầu: 3.6+
+# Cài đặt: pip install -r requirements.txt
 
-# Core packages
-tkinter >= 8.6  # GUI toolkit (usually comes with Python)
-numpy >= 1.19.5  # For advanced math operations (optional)
-matplotlib >= 3.3.4  # For graph visualization (optional)
+tkinter >= 8.6  # Thư viện GUI (có sẵn trong Python)
