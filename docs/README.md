@@ -6,6 +6,6 @@
 - Lưu/tải đồ thị dạng JSON  
 
 ## 📦 Cài Đặt  
-git clone https://github.com/yourusername/chapterly.git
+git clone https://github.com/trungngayxua/chapterly.git
 cd chapterly
 python src/main.py
