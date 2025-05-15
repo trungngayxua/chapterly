@@ -1,0 +1,7 @@
+# Requirements for Chapterly
+# Python version: 3.6+
+
+# Core packages
+tkinter >= 8.6  # GUI toolkit (usually comes with Python)
+numpy >= 1.19.5  # For advanced math operations (optional)
+matplotlib >= 3.3.4  # For graph visualization (optional)
